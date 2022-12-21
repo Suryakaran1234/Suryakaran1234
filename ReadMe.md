@@ -5,7 +5,7 @@
 <p align="center">
 
 <!---------------------COMPLETE BUY ME A COFFEE SECTION------------------------>
- <!-- <a href="https://www.buymeacoffee.com/vishwagauravin" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a> -->
+ <a href="https://www.buymeacoffee.com/vishwagauravin" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
 
  <!-- ADD PORTFOLIO LINK -->
  <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
