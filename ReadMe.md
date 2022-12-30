@@ -11,7 +11,7 @@
 
 ## Creation 👨‍💻
 
-### <img src="https://itsvg.in/logo.png" width="16px" /> Portfolio
+### <img src="https://avatars.githubusercontent.com/u/79763810?s=400&u=ca391acaf4e0536325adc227356ee584602aded0&v=4" width="16px" /> Portfolio
 
 <!-- [Vishwa Gaurav - Portfolio](https://itsvg.in) , -->
 
