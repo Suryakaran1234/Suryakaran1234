@@ -13,9 +13,7 @@
 
 ### <img src="https://avatars.githubusercontent.com/u/79763810?s=400&u=ca391acaf4e0536325adc227356ee584602aded0&v=4" width="16px" style="border-radius: 50%" /> Portfolio
 
-[Surya Karan Sharma - Portfolio](https://suryakaran.netlify.app) ,
-
-</> and Crafted with 💛 by Surya Karan Sharma
+[Surya Karan Sharma - Portfolio](https://suryakaran.netlify.app) , </> and Crafted with 💛 by Surya Karan Sharma
 
 <p align="right">
 .. working on few more projects 😉 </p>
@@ -29,7 +27,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
-![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua)
 
 #### JS Framework/Library
 
@@ -71,8 +68,8 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 
 <!-- #### CI/CD -->
-<!-- ![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
+<!-- ![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
 ![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins) -->
 
 #### Package Manager
@@ -94,13 +91,13 @@ if (codeWorking){
 // - Surya Karan Sharma
 ```
 
-<!-- ## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching. -->
+## Current GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=suryakaran1234&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaran1234&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
-<!-- ## GitHub Streaks 🔥
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D) -->
+## GitHub Streaks 🔥
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=Suryakaran1234&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 <!-- Dev in Progress
 ## Latest Tweet 🐦
