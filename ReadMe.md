@@ -110,7 +110,7 @@ if (codeWorking){
 ---
 
 <p align="center">
-<img src="https://github.com/Suryakaran1234/Suryakaran1234/dist/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+<img src="https://raw.githubusercontent.com/Suryakaran1234/Suryakaran1234/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=suryakaran1234&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
